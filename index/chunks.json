@@ -1,0 +1,132 @@
+[
+  {
+    "text": "History of Computers\n\nThe history of computers spans thousands of years, from simple counting tools to modern machines that process trillions of calculations per second.\n\nThe earliest computing device was the abacus, used in ancient Mesopotamia around 2400 BC. It allowed merchants and scribes to perform basic arithmetic by moving beads on rods. The abacus is still used today in some parts of the world.\n\nIn the 17th century, Blaise Pascal invented the Pascaline, a mechanical calculator that could",
+    "source": "history_of_computers.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "orld.\n\nIn the 17th century, Blaise Pascal invented the Pascaline, a mechanical calculator that could add and subtract numbers. Gottfried Wilhelm Leibniz later improved on this design, creating a machine that could also multiply and divide.\n\nCharles Babbage, an English mathematician, designed the Analytical Engine in the 1830s. It is considered the first concept of a general-purpose programmable computer. Babbage's collaborator, Ada Lovelace, wrote the first algorithm intended for the machine and",
+    "source": "history_of_computers.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "mputer. Babbage's collaborator, Ada Lovelace, wrote the first algorithm intended for the machine and is often called the first computer programmer.\n\nThe first electronic general-purpose computer was ENIAC (Electronic Numerical Integrator and Computer), completed in 1945 at the University of Pennsylvania. ENIAC weighed 30 tons, occupied 1,800 square feet, and used about 18,000 vacuum tubes. It could perform 5,000 additions per second.\n\nIn 1947, John Bardeen, Walter Brattain, and William Shockley",
+    "source": "history_of_computers.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "d perform 5,000 additions per second.\n\nIn 1947, John Bardeen, Walter Brattain, and William Shockley invented the transistor at Bell Labs. Transistors replaced bulky vacuum tubes, making computers smaller, faster, and more reliable. This invention earned them the Nobel Prize in Physics in 1956.\n\nThe integrated circuit, developed independently by Jack Kilby and Robert Noyce in 1958-1959, placed multiple transistors on a single chip. This breakthrough led to the microprocessor revolution.\n\nIntel re",
+    "source": "history_of_computers.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "iple transistors on a single chip. This breakthrough led to the microprocessor revolution.\n\nIntel released the first commercial microprocessor, the Intel 4004, in 1971. It contained 2,300 transistors and could perform 60,000 operations per second. Today's processors contain billions of transistors.\n\nThe personal computer era began in the 1970s. The Altair 8800, released in 1975, is often credited as the first personal computer. Apple Computer was founded by Steve Jobs and Steve Wozniak in 1976,",
+    "source": "history_of_computers.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "as the first personal computer. Apple Computer was founded by Steve Jobs and Steve Wozniak in 1976, and the IBM PC was introduced in 1981.\n\nTim Berners-Lee invented the World Wide Web in 1989 while working at CERN. The web made the internet accessible to the general public and transformed how people share and access information.\n\nModern computers use binary code \u2014 sequences of 0s and 1s \u2014 to represent all data and instructions. A single binary digit is called a bit. Eight bits make a byte, which",
+    "source": "history_of_computers.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": "sent all data and instructions. A single binary digit is called a bit. Eight bits make a byte, which can represent 256 different values.\n\nToday, computers are embedded in phones, cars, appliances, and medical devices. Quantum computing, which uses quantum mechanical phenomena to process information, represents the next frontier in computing technology.",
+    "source": "history_of_computers.txt",
+    "chunk_index": 6
+  },
+  {
+    "text": "Photosynthesis\n\nPhotosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process is essential for life on Earth because it produces oxygen and forms the base of most food chains.\n\nThe word photosynthesis comes from the Greek words \"photo\" (light) and \"synthesis\" (putting together). The overall equation for photosynthesis is:\n\n6CO2 + 6H2O + light energy \u2192 C6H12O6 + 6O2\n\nThis means carbon dioxide and water, usin",
+    "source": "photosynthesis.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "synthesis is:\n\n6CO2 + 6H2O + light energy \u2192 C6H12O6 + 6O2\n\nThis means carbon dioxide and water, using light energy, produce glucose and oxygen.\n\nPhotosynthesis occurs mainly in the leaves of plants, inside organelles called chloroplasts. Chloroplasts contain chlorophyll, the green pigment that captures light energy. Chlorophyll absorbs mostly red and blue wavelengths of light and reflects green, which is why plants appear green.\n\nPhotosynthesis has two main stages: the light-dependent reactions",
+    "source": "photosynthesis.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "hich is why plants appear green.\n\nPhotosynthesis has two main stages: the light-dependent reactions and the Calvin cycle (light-independent reactions).\n\nIn the light-dependent reactions, which occur in the thylakoid membranes, chlorophyll absorbs sunlight. This energy splits water molecules (H2O) into oxygen, protons, and electrons. The oxygen is released as a byproduct \u2014 this is the oxygen we breathe. The energy is stored temporarily in molecules called ATP and NADPH.\n\nIn the Calvin cycle, whic",
+    "source": "photosynthesis.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "athe. The energy is stored temporarily in molecules called ATP and NADPH.\n\nIn the Calvin cycle, which occurs in the stroma of the chloroplast, the ATP and NADPH from the light reactions power the conversion of carbon dioxide (CO2) from the air into glucose (C6H12O6). This stage does not directly require light, but it depends on the products of the light-dependent reactions.\n\nPlants need three things for photosynthesis: sunlight, water, and carbon dioxide. Water is absorbed through the roots and",
+    "source": "photosynthesis.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "gs for photosynthesis: sunlight, water, and carbon dioxide. Water is absorbed through the roots and transported to the leaves through xylem vessels. Carbon dioxide enters the leaves through small pores called stomata.\n\nFactors that affect the rate of photosynthesis include light intensity, carbon dioxide concentration, temperature, and water availability. If any of these factors is limited, photosynthesis slows down \u2014 this is called a limiting factor.\n\nPhotosynthesis and cellular respiration are",
+    "source": "photosynthesis.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "ynthesis slows down \u2014 this is called a limiting factor.\n\nPhotosynthesis and cellular respiration are opposite processes. Photosynthesis stores energy in glucose, while respiration releases that energy for the cell to use. Together, they form the carbon cycle that sustains life on Earth.\n\nScientists study photosynthesis to improve crop yields and develop artificial systems that mimic this process to produce clean energy.",
+    "source": "photosynthesis.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": "o produce clean energy.",
+    "source": "photosynthesis.txt",
+    "chunk_index": 6
+  },
+  {
+    "text": "The Solar System\n\nOur solar system consists of the Sun and everything that orbits it, including eight planets, dwarf planets, moons, asteroids, and comets. The Sun contains 99.86% of the solar system's total mass.\n\nThe eight planets, in order from the Sun, are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Mercury is the smallest planet and the closest to the Sun. Venus is the hottest planet due to its thick atmosphere of carbon dioxide. Earth is the only planet known to sup",
+    "source": "solar_system.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "hottest planet due to its thick atmosphere of carbon dioxide. Earth is the only planet known to support life.\n\nMars is often called the Red Planet because of iron oxide on its surface. Scientists have found evidence of ancient water on Mars and continue to search for signs of past or present life.\n\nJupiter is the largest planet in our solar system. It is a gas giant with a mass more than twice that of all other planets combined. Jupiter has at least 95 known moons, including Ganymede, the large",
+    "source": "solar_system.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "at of all other planets combined. Jupiter has at least 95 known moons, including Ganymede, the largest moon in the solar system.\n\nSaturn is famous for its spectacular ring system, made mostly of ice particles and rock. Saturn is the second-largest planet and has 146 known moons, including Titan, which has a thick atmosphere.\n\nUranus and Neptune are ice giants located in the outer solar system. Uranus rotates on its side, likely due to a past collision. Neptune has the strongest winds in the sola",
+    "source": "solar_system.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "nus rotates on its side, likely due to a past collision. Neptune has the strongest winds in the solar system, reaching speeds of over 2,000 km/h.\n\nThe asteroid belt lies between Mars and Jupiter. It contains millions of rocky objects left over from the formation of the solar system about 4.6 billion years ago.\n\nBeyond Neptune lies the Kuiper Belt, home to dwarf planets like Pluto, Eris, and Haumea. The Oort Cloud, a distant shell of icy objects, marks the outer boundary of the solar system.\n\nThe",
+    "source": "solar_system.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": ". The Oort Cloud, a distant shell of icy objects, marks the outer boundary of the solar system.\n\nThe Sun is a G-type main-sequence star. It converts hydrogen into helium through nuclear fusion, releasing the energy that sustains life on Earth. Without the Sun, Earth would be a frozen, lifeless world.\n\nExploration of the solar system began with telescopes and has expanded to robotic spacecraft. NASA's Voyager probes, launched in 1977, have traveled beyond the solar system and continue to send dat",
+    "source": "solar_system.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "A's Voyager probes, launched in 1977, have traveled beyond the solar system and continue to send data back to Earth.",
+    "source": "solar_system.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": "The Water Cycle\n\nThe water cycle, also known as the hydrological cycle, describes the continuous movement of water on, above, and below the surface of the Earth. Water is constantly changing states between liquid, solid (ice), and gas (water vapor).\n\nThe cycle has four main stages: evaporation, condensation, precipitation, and collection.\n\nEvaporation occurs when the Sun heats water in rivers, lakes, and oceans, turning it into water vapor that rises into the atmosphere. Plants also release wate",
+    "source": "water_cycle.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "es, and oceans, turning it into water vapor that rises into the atmosphere. Plants also release water vapor through a process called transpiration. Together, evaporation and transpiration are called evapotranspiration.\n\nCondensation happens when water vapor in the atmosphere cools and changes back into liquid water, forming clouds. Clouds are made of tiny water droplets or ice crystals suspended in the air.\n\nPrecipitation occurs when water droplets in clouds combine and grow heavy enough to fall",
+    "source": "water_cycle.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "n the air.\n\nPrecipitation occurs when water droplets in clouds combine and grow heavy enough to fall to Earth as rain, snow, sleet, or hail. The type of precipitation depends on the temperature of the air.\n\nCollection is the stage where water gathers in oceans, rivers, lakes, and groundwater. Some water soaks into the ground and becomes groundwater, which can remain underground for years before resurfacing in springs or being pumped from wells.\n\nThe water cycle is powered by solar energy and gra",
+    "source": "water_cycle.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "surfacing in springs or being pumped from wells.\n\nThe water cycle is powered by solar energy and gravity. The Sun provides the energy for evaporation, and gravity pulls precipitation back to Earth and drives the flow of rivers toward the ocean.\n\nHuman activities affect the water cycle. Deforestation reduces transpiration, urban development increases runoff and reduces groundwater recharge, and climate change alters precipitation patterns and increases evaporation rates.\n\nThe total amount of wate",
+    "source": "water_cycle.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "mate change alters precipitation patterns and increases evaporation rates.\n\nThe total amount of water on Earth remains roughly constant \u2014 about 1.386 billion cubic kilometers. However, only about 2.5% is freshwater, and less than 1% of that is easily accessible for human use.\n\nUnderstanding the water cycle is essential for managing water resources, predicting weather, and addressing environmental challenges such as droughts and floods.",
+    "source": "water_cycle.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "challenges such as droughts and floods.",
+    "source": "water_cycle.txt",
+    "chunk_index": 5
+  }
+]

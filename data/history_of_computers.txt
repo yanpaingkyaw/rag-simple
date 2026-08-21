@@ -1,0 +1,25 @@
+History of Computers
+
+The history of computers spans thousands of years, from simple counting tools to modern machines that process trillions of calculations per second.
+
+The earliest computing device was the abacus, used in ancient Mesopotamia around 2400 BC. It allowed merchants and scribes to perform basic arithmetic by moving beads on rods. The abacus is still used today in some parts of the world.
+
+In the 17th century, Blaise Pascal invented the Pascaline, a mechanical calculator that could add and subtract numbers. Gottfried Wilhelm Leibniz later improved on this design, creating a machine that could also multiply and divide.
+
+Charles Babbage, an English mathematician, designed the Analytical Engine in the 1830s. It is considered the first concept of a general-purpose programmable computer. Babbage's collaborator, Ada Lovelace, wrote the first algorithm intended for the machine and is often called the first computer programmer.
+
+The first electronic general-purpose computer was ENIAC (Electronic Numerical Integrator and Computer), completed in 1945 at the University of Pennsylvania. ENIAC weighed 30 tons, occupied 1,800 square feet, and used about 18,000 vacuum tubes. It could perform 5,000 additions per second.
+
+In 1947, John Bardeen, Walter Brattain, and William Shockley invented the transistor at Bell Labs. Transistors replaced bulky vacuum tubes, making computers smaller, faster, and more reliable. This invention earned them the Nobel Prize in Physics in 1956.
+
+The integrated circuit, developed independently by Jack Kilby and Robert Noyce in 1958-1959, placed multiple transistors on a single chip. This breakthrough led to the microprocessor revolution.
+
+Intel released the first commercial microprocessor, the Intel 4004, in 1971. It contained 2,300 transistors and could perform 60,000 operations per second. Today's processors contain billions of transistors.
+
+The personal computer era began in the 1970s. The Altair 8800, released in 1975, is often credited as the first personal computer. Apple Computer was founded by Steve Jobs and Steve Wozniak in 1976, and the IBM PC was introduced in 1981.
+
+Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN. The web made the internet accessible to the general public and transformed how people share and access information.
+
+Modern computers use binary code — sequences of 0s and 1s — to represent all data and instructions. A single binary digit is called a bit. Eight bits make a byte, which can represent 256 different values.
+
+Today, computers are embedded in phones, cars, appliances, and medical devices. Quantum computing, which uses quantum mechanical phenomena to process information, represents the next frontier in computing technology.
