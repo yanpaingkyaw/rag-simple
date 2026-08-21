@@ -141,3 +141,7 @@ Read the files in this order: `rag.py` → `ingest.py` → `ask.py`. Every funct
 | `No index found` | Run `python ingest.py` before `python ask.py` |
 | Slow first response | The model loads into memory on first use; subsequent calls are faster |
 | Out of memory / disk | Try a smaller model (`ollama pull phi3`) and update `CHAT_MODEL` in `rag.py` |
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
